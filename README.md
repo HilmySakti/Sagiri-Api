@@ -1,9 +1,9 @@
-# ```Alphabot-Api```
+# ```SAGIRI Api```
 <p align="center">
-<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/api-zeeoneofc?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/api-zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/api-zeeoneofc?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/HilmySakti/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
+<a href="https://github.com/HilmySakti/Sagiri-Api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HilmySakti/Sagiri-Api?color=blue&style=flat-square"></a>
+<a href="https://github.com/HilmySakti/Sagiri-Api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HilmySakti/Sagiri-Api?color=red&style=flat-square"></a>
+<a href="https://github.com/HilmySakti/Sagiri-Api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HilmySakti/Sagiri-Api?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Rest-api-alphabot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/zeeoneofc/Rest-api-alphabot/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Rest-api-alphabot?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FRest-api-alphabot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
